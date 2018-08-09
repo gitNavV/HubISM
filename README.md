@@ -32,3 +32,20 @@
 <b>1.</b>```https://help.github.com/articles/fork-a-repo/```<br />
 <b>2.</b>```https://help.github.com/articles/creating-a-pull-request/```<br />
 <b>3.</b>```https://help.github.com/articles/syncing-a-fork/```<br />
+<br />
+![Splash Screen](https://github.com/gitNavV/hubISM/blob/master/Screenshot%20from%202018-08-09%2023-53-54.png)
+<br />
+![Dashboard](https://github.com/gitNavV/hubISM/blob/master/Screenshot%20from%202018-08-09%2023-53-59.png)
+<br />
+![Sidebar](https://github.com/gitNavV/hubISM/blob/master/Screenshot%20from%202018-08-09%2023-54-00.png)
+<br />
+![Timetable](https://github.com/gitNavV/hubISM/blob/master/Screenshot%20from%202018-08-09%2023-54-01.png)
+<br />
+![People](https://github.com/gitNavV/hubISM/blob/master/Screenshot%20from%202018-08-09%2023-54-02.png)
+<br />
+![Map](https://github.com/gitNavV/hubISM/blob/master/Screenshot%20from%202018-08-09%2023-54-03.png)
+<br />
+![Basic Facilities](https://github.com/gitNavV/hubISM/blob/master/Screenshot%20from%202018-08-09%2023-54-04.png)
+<br />
+![Clubs](https://github.com/gitNavV/hubISM/blob/master/Screenshot%20from%202018-08-09%2023-54-06.png)
+
