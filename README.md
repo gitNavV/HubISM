@@ -1,5 +1,3 @@
-                               # hubISM
-
 ![hubISM Logo](/app/src/main/res/drawable/something.jpeg)
 
 :octocat: This is a Java based open source android project for HackFest 2017 called "hubISM", which served as a solution to all the daily life problems of IIT(ISM) students. The app was made to be usable even in offline mode. The app follows an open-source approach for further development in addition to what the team did itself. <br />
