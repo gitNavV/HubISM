@@ -2,15 +2,16 @@
 
 ![hubISM Logo](/app/src/main/res/drawable/something.jpeg)
 
-:octocat: This is an open source android project for Hackfest 2017 called "hubISM", which serves as a solution to all the daily life problems of IIT(ISM) students. The app is being developed to be usable in even offline mode. The app follows an open-source approach for further development, in addition to what the team does itself. <br />
-:metal: :tada: The app would consist of these features -
+:octocat: This is a Java based open source android project for HackFest 2017 called "hubISM", which served as a solution to all the daily life problems of IIT(ISM) students. The app was made to be usable even in offline mode. The app follows an open-source approach for further development in addition to what the team did itself. <br />
 
-<b>1.</b>Detailed map of IIT(ISM) including all the departments , lecture halls , event locations , labs , places of interest etc.
-<b>2.</b>Timetable for all the courses. (Currently for only first year students)  
-<b>3.</b>Contacts containing photo &amp; contact details of all the faculty and other important persons of IIT(ISM).  
-<b>4.</b>MIS hyperlink to directly access features such as attendence, grade sheet etc. (Currently opens in external browser window)<br />
-<b>5.</b>Academic calender including all the vacations, exam dates &amp; other important dates.  
-<b>6.</b>Clubs - this featute consists of a brief introduction of every presently active club in IIT(ISM) Dhanbad with their logos (Further plan is to include posts made on their facebook page available at a single place will be known as "Club Feed").
+:metal: :tada: The app consists of these features -
+
+<b>1.</b> Detailed map of IIT(ISM) Dhanbad including all the departments, lecture halls, event locations, labs, and places of interest.<br />
+<b>2.</b> Detailed timetable for all the courses. (currently for only first year of 2016-2020 batch)<br />
+<b>3.</b> Contacts containing photos and contact details of all the faculty and other important persons.<br />
+<b>4.</b> MIS hyperlink to directly access features such as attendance, grade sheets (currently opens in external browser window)<br />
+<b>5.</b> Academic calendar includes all the vacations, exam dates, and other important dates.<br />
+<b>6.</b> Clubs - this feature consists of a brief introduction of every presently active club in IIT(ISM) Dhanbad with their logos. It also includes posts made on their facebook page available at a single place, known as "Club Feed".
 
 :+1: <b>Steps for contributing to this project (HTTPS Method) -</b><br /><br />
 ><b>1.</b>Firstly, Download & install git onto the system.<br />
